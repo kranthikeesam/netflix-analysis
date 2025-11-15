@@ -83,4 +83,12 @@ All plots are saved inside the `images/` directory if you want to admire them la
 
 ---
 
-## 🧱 Project Structure
+## 📌 Tableau Dashboard
+This project also includes an interactive Tableau dashboard that visualizes:
+- Movies vs TV Shows
+- Top Genres
+- Titles Added Over Time
+- Country-wise Content Distribution
+
+🔗 **View the Tableau Dashboard:**  
+[Netflix Movies & TV Shows Analysis Dashboard](https://public.tableau.com/app/profile/kranthi.kumar5120/viz/Book1_17632439297860/NetflixMoviesTVShowsAnalysisDashboard?publish=yes)
